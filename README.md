@@ -1,11 +1,13 @@
 # awesome-github
 
+[TOC]
+
 ## AI 
 ### [Vanna](https://github.com/vanna-ai/vanna)
 Vanna is an MIT-licensed open-source Python RAG (Retrieval-Augmented Generation) framework for SQL generation and related functionality.
 
 ## 安全
-### gitleaks(https://github.com/gitleaks/gitleaks)
+### [gitleaks](https://github.com/gitleaks/gitleaks)
 Gitleaks is a tool for detecting secrets like passwords, API keys, and tokens in git repos, files, and whatever else you wanna throw at it via stdin. If you wanna learn more about how the detection engine works check out this blog: Regex is (almost) all you need.
 
 ## 前端
